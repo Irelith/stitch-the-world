@@ -1,2 +1,2 @@
-# stitch-the-world
+# Stitch the World
 TFG Proposal

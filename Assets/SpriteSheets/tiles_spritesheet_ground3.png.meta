@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: 00bddcc668b0c924eafd08e11480f286
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4684577528706140443
+    second: tiles_spritesheet 2_0
+  - first:
+      213: -2441837518851912318
+    second: tiles_spritesheet 2_1
+  - first:
+      213: -2708417674785353132
+    second: tiles_spritesheet 2_2
+  - first:
+      213: -2402840016791420178
+    second: tiles_spritesheet 2_3
+  - first:
+      213: -2968465926109206936
+    second: tiles_spritesheet 2_4
+  - first:
+      213: 8456590995292073493
+    second: tiles_spritesheet 2_5
+  - first:
+      213: -1498930222046622825
+    second: tiles_spritesheet 2_6
+  - first:
+      213: -649697981712402554
+    second: tiles_spritesheet 2_7
+  - first:
+      213: 3591683957713149396
+    second: tiles_spritesheet 2_8
+  - first:
+      213: 8650922946639186118
+    second: tiles_spritesheet 2_9
+  - first:
+      213: 8192862409466206595
+    second: tiles_spritesheet 2_10
+  - first:
+      213: -505739003271487901
+    second: tiles_spritesheet 2_11
+  - first:
+      213: -242724804913444356
+    second: tiles_spritesheet 2_12
+  - first:
+      213: 9094508003179097961
+    second: tiles_spritesheet 2_13
+  - first:
+      213: -1622142219197490655
+    second: tiles_spritesheet 2_14
+  - first:
+      213: -4039924667378515322
+    second: tiles_spritesheet 2_15
+  - first:
+      213: -4995411475108080109
+    second: tiles_spritesheet 2_16
+  - first:
+      213: 567206186560546308
+    second: tiles_spritesheet 2_17
+  - first:
+      213: -9096374024819388448
+    second: tiles_spritesheet 2_18
+  - first:
+      213: -1389122183530038484
+    second: tiles_spritesheet 2_19
+  - first:
+      213: 4752895281600977235
+    second: tiles_spritesheet 2_20
+  - first:
+      213: 6691905422820227063
+    second: tiles_spritesheet 2_21
+  - first:
+      213: 3981915299388625576
+    second: tiles_spritesheet 2_22
+  - first:
+      213: 5696099078371560044
+    second: tiles_spritesheet 2_23
+  - first:
+      213: 14062202967982359
+    second: tiles_spritesheet 2_24
+  - first:
+      213: -798827446087350729
+    second: tiles_spritesheet 2_25
+  - first:
+      213: -2147851341412177862
+    second: tiles_spritesheet 2_26
+  - first:
+      213: 2031012613879548138
+    second: tiles_spritesheet 2_27
+  - first:
+      213: -4748751566010873808
+    second: tiles_spritesheet 2_28
+  - first:
+      213: -5955977888294020546
+    second: tiles_spritesheet 2_29
+  - first:
+      213: 354246439094752453
+    second: tiles_spritesheet 2_30
+  - first:
+      213: -742473652637835703
+    second: tiles_spritesheet 2_31
+  - first:
+      213: -3778553905157394525
+    second: tiles_spritesheet 2_32
+  - first:
+      213: -1302299300750233350
+    second: tiles_spritesheet 2_33
+  - first:
+      213: -2750345903586590023
+    second: tiles_spritesheet 2_34
+  - first:
+      213: -988800779585020474
+    second: tiles_spritesheet 2_35
+  - first:
+      213: -4680589047005231921
+    second: tiles_spritesheet 2_36
+  - first:
+      213: -2942709350912602621
+    second: tiles_spritesheet 2_37
+  - first:
+      213: -7909664512588218208
+    second: tiles_spritesheet 2_38
+  - first:
+      213: -2139929367661238989
+    second: tiles_spritesheet 2_39
+  - first:
+      213: 8097400111348206307
+    second: tiles_spritesheet 2_40
+  - first:
+      213: 8239679357700703469
+    second: tiles_spritesheet 2_41
+  - first:
+      213: -8775005199058067540
+    second: tiles_spritesheet 2_42
+  - first:
+      213: 5992453644753029602
+    second: tiles_spritesheet 2_43
+  - first:
+      213: 11000549487143961
+    second: tiles_spritesheet 2_44
+  - first:
+      213: -2488536319124998559
+    second: tiles_spritesheet 2_45
+  - first:
+      213: -555548351960949522
+    second: tiles_spritesheet 2_46
+  - first:
+      213: 8578491125059480957
+    second: tiles_spritesheet 2_47
+  - first:
+      213: 8896472990288817063
+    second: tiles_spritesheet 2_48
+  - first:
+      213: 2772056569287339989
+    second: tiles_spritesheet 2_49
+  - first:
+      213: 8975051228755911394
+    second: tiles_spritesheet 2_50
+  - first:
+      213: 3256274339389475191
+    second: tiles_spritesheet 2_51
+  - first:
+      213: 8826179300018699376
+    second: tiles_spritesheet 2_52
+  - first:
+      213: 6621657397331765520
+    second: tiles_spritesheet 2_53
+  - first:
+      213: 3780279194147375130
+    second: tiles_spritesheet 2_54
+  - first:
+      213: -675519699312671296
+    second: tiles_spritesheet 2_55
+  - first:
+      213: -4777904589530224712
+    second: tiles_spritesheet 2_56
+  - first:
+      213: -1734665629389345774
+    second: tiles_spritesheet 2_57
+  - first:
+      213: -4853189429105061670
+    second: tiles_spritesheet 2_58
+  - first:
+      213: -2118977387593063432
+    second: tiles_spritesheet 2_59
+  - first:
+      213: 8196682490021345991
+    second: tiles_spritesheet 2_60
+  - first:
+      213: -7524672422529497134
+    second: tiles_spritesheet 2_61
+  - first:
+      213: -4874866689208530857
+    second: tiles_spritesheet 2_62
+  - first:
+      213: -3994093888917094968
+    second: tiles_spritesheet 2_63
+  - first:
+      213: 4703977479348161574
+    second: tiles_spritesheet 2_64
+  - first:
+      213: 9100744634599569120
+    second: tiles_spritesheet 2_65
+  - first:
+      213: -669550964154725645
+    second: tiles_spritesheet 2_66
+  - first:
+      213: 8096256898765287850
+    second: tiles_spritesheet 2_67
+  - first:
+      213: 6533261852263237569
+    second: tiles_spritesheet 2_68
+  - first:
+      213: -4343169912668196080
+    second: tiles_spritesheet 2_69
+  - first:
+      213: -3809885561664349563
+    second: tiles_spritesheet 2_70
+  - first:
+      213: -1975958400259057844
+    second: tiles_spritesheet 2_71
+  - first:
+      213: 3528459780564836165
+    second: tiles_spritesheet 2_72
+  - first:
+      213: 3941484530981603865
+    second: tiles_spritesheet 2_73
+  - first:
+      213: 6219751928141514918
+    second: tiles_spritesheet 2_74
+  - first:
+      213: -7713240849268002871
+    second: tiles_spritesheet 2_75
+  - first:
+      213: 4109030569307723330
+    second: tiles_spritesheet 2_76
+  - first:
+      213: 7934715672117286567
+    second: tiles_spritesheet 2_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tiles_spritesheet_ground3_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792f53dc9961298449fd1419b2e7f7e8
+      internalID: -596431827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_spritesheet_ground3_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcb5416ab18946449b17d18542dbbe9
+      internalID: 1225319077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_spritesheet_ground3_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a04fee671e6374dbea6df7236f1dce
+      internalID: -1303233889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_spritesheet_ground3_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db2ed03763aad44d89632ade01bc460
+      internalID: 1084086554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_spritesheet_ground3_16
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e8b1ad4601e8543b98d2b51f6420a6
+      internalID: 779442163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_spritesheet_ground3_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d5b46c7bf98aa4c844d7f5dbebd43d
+      internalID: -980865219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_spritesheet_ground3_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d32c80f6b7599429dc0aa83d3dbd89
+      internalID: -1290304527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_spritesheet_ground3_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9083e69ab3fbfb947bff513253f156a2
+      internalID: -1681678728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_spritesheet_ground3_25
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ff61f13c5a761448188503c3f5ae52
+      internalID: -1613601041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_spritesheet_ground3_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49745e7742af7140ba62d6edfd21717
+      internalID: -940834466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_spritesheet_ground3_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638328361843a41429caaa219482a54c
+      internalID: 483001188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_spritesheet_ground3_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c173c927a96a4324ebc04bd7ce9fea32
+      internalID: -853455060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_spritesheet_ground3_34
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fadd12c36102f40b30f8f518b3b9d9
+      internalID: -477094455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_spritesheet_ground3_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4f3846908ff1d48ab509b59fe1ef70
+      internalID: -1988408843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_spritesheet_ground3_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7f97f10e44de24eb49a02d2f00c616
+      internalID: -1629248216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_spritesheet_ground3_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcb2c4016df2fd49926d3559fdcc909
+      internalID: -737684428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_spritesheet_ground3_44
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbadf63b14b26ee4aba89f9c0e71712b
+      internalID: -651485360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_spritesheet_ground3_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a37cf815d648d4e9ccfa4927534348
+      internalID: 1321582030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_spritesheet_ground3_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73ddbe918a734846ac3de920e0bbfd7
+      internalID: 1101937763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fbce1ab8948792f46bc6286a9afa36d2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tiles_spritesheet 2_0: 4684577528706140443
+      tiles_spritesheet 2_1: -2441837518851912318
+      tiles_spritesheet 2_10: 8192862409466206595
+      tiles_spritesheet 2_11: -505739003271487901
+      tiles_spritesheet 2_12: -242724804913444356
+      tiles_spritesheet 2_13: 9094508003179097961
+      tiles_spritesheet 2_14: -1622142219197490655
+      tiles_spritesheet 2_15: -4039924667378515322
+      tiles_spritesheet 2_16: -4995411475108080109
+      tiles_spritesheet 2_17: 567206186560546308
+      tiles_spritesheet 2_18: -9096374024819388448
+      tiles_spritesheet 2_19: -1389122183530038484
+      tiles_spritesheet 2_2: -2708417674785353132
+      tiles_spritesheet 2_20: 4752895281600977235
+      tiles_spritesheet 2_21: 6691905422820227063
+      tiles_spritesheet 2_22: 3981915299388625576
+      tiles_spritesheet 2_23: 5696099078371560044
+      tiles_spritesheet 2_24: 14062202967982359
+      tiles_spritesheet 2_25: -798827446087350729
+      tiles_spritesheet 2_26: -2147851341412177862
+      tiles_spritesheet 2_27: 2031012613879548138
+      tiles_spritesheet 2_28: -4748751566010873808
+      tiles_spritesheet 2_29: -5955977888294020546
+      tiles_spritesheet 2_3: -2402840016791420178
+      tiles_spritesheet 2_30: 354246439094752453
+      tiles_spritesheet 2_31: -742473652637835703
+      tiles_spritesheet 2_32: -3778553905157394525
+      tiles_spritesheet 2_33: -1302299300750233350
+      tiles_spritesheet 2_34: -2750345903586590023
+      tiles_spritesheet 2_35: -988800779585020474
+      tiles_spritesheet 2_36: -4680589047005231921
+      tiles_spritesheet 2_37: -2942709350912602621
+      tiles_spritesheet 2_38: -7909664512588218208
+      tiles_spritesheet 2_39: -2139929367661238989
+      tiles_spritesheet 2_4: -2968465926109206936
+      tiles_spritesheet 2_40: 8097400111348206307
+      tiles_spritesheet 2_41: 8239679357700703469
+      tiles_spritesheet 2_42: -8775005199058067540
+      tiles_spritesheet 2_43: 5992453644753029602
+      tiles_spritesheet 2_44: 11000549487143961
+      tiles_spritesheet 2_45: -2488536319124998559
+      tiles_spritesheet 2_46: -555548351960949522
+      tiles_spritesheet 2_47: 8578491125059480957
+      tiles_spritesheet 2_48: 8896472990288817063
+      tiles_spritesheet 2_49: 2772056569287339989
+      tiles_spritesheet 2_5: 8456590995292073493
+      tiles_spritesheet 2_50: 8975051228755911394
+      tiles_spritesheet 2_51: 3256274339389475191
+      tiles_spritesheet 2_52: 8826179300018699376
+      tiles_spritesheet 2_53: 6621657397331765520
+      tiles_spritesheet 2_54: 3780279194147375130
+      tiles_spritesheet 2_55: -675519699312671296
+      tiles_spritesheet 2_56: -4777904589530224712
+      tiles_spritesheet 2_57: -1734665629389345774
+      tiles_spritesheet 2_58: -4853189429105061670
+      tiles_spritesheet 2_59: -2118977387593063432
+      tiles_spritesheet 2_6: -1498930222046622825
+      tiles_spritesheet 2_60: 8196682490021345991
+      tiles_spritesheet 2_61: -7524672422529497134
+      tiles_spritesheet 2_62: -4874866689208530857
+      tiles_spritesheet 2_63: -3994093888917094968
+      tiles_spritesheet 2_64: 4703977479348161574
+      tiles_spritesheet 2_65: 9100744634599569120
+      tiles_spritesheet 2_66: -669550964154725645
+      tiles_spritesheet 2_67: 8096256898765287850
+      tiles_spritesheet 2_68: 6533261852263237569
+      tiles_spritesheet 2_69: -4343169912668196080
+      tiles_spritesheet 2_7: -649697981712402554
+      tiles_spritesheet 2_70: -3809885561664349563
+      tiles_spritesheet 2_71: -1975958400259057844
+      tiles_spritesheet 2_72: 3528459780564836165
+      tiles_spritesheet 2_73: 3941484530981603865
+      tiles_spritesheet 2_74: 6219751928141514918
+      tiles_spritesheet 2_75: -7713240849268002871
+      tiles_spritesheet 2_76: 4109030569307723330
+      tiles_spritesheet 2_77: 7934715672117286567
+      tiles_spritesheet 2_8: 3591683957713149396
+      tiles_spritesheet 2_9: 8650922946639186118
+      tiles_spritesheet_ground2_0: 948516941
+      tiles_spritesheet_ground2_1: 730579931
+      tiles_spritesheet_ground2_10: 640438681
+      tiles_spritesheet_ground2_11: -499290796
+      tiles_spritesheet_ground2_12: -2108843248
+      tiles_spritesheet_ground2_13: 1525757116
+      tiles_spritesheet_ground2_14: -1899611707
+      tiles_spritesheet_ground2_15: -645182767
+      tiles_spritesheet_ground2_16: 2086470126
+      tiles_spritesheet_ground2_17: 1320618981
+      tiles_spritesheet_ground2_18: 2133288457
+      tiles_spritesheet_ground2_19: -85796396
+      tiles_spritesheet_ground2_2: -1172923020
+      tiles_spritesheet_ground2_20: 642005885
+      tiles_spritesheet_ground2_21: -2093596388
+      tiles_spritesheet_ground2_22: 2110179569
+      tiles_spritesheet_ground2_23: 1559940845
+      tiles_spritesheet_ground2_24: 959361570
+      tiles_spritesheet_ground2_25: -124372366
+      tiles_spritesheet_ground2_26: -1129646581
+      tiles_spritesheet_ground2_27: 1851927618
+      tiles_spritesheet_ground2_28: -2137800689
+      tiles_spritesheet_ground2_29: 176607773
+      tiles_spritesheet_ground2_3: 1267311818
+      tiles_spritesheet_ground2_30: -21687025
+      tiles_spritesheet_ground2_31: -1422004878
+      tiles_spritesheet_ground2_32: 670008234
+      tiles_spritesheet_ground2_33: -466774553
+      tiles_spritesheet_ground2_34: -734879449
+      tiles_spritesheet_ground2_35: -1154788477
+      tiles_spritesheet_ground2_36: 1673200037
+      tiles_spritesheet_ground2_37: 1409101674
+      tiles_spritesheet_ground2_38: -192365915
+      tiles_spritesheet_ground2_39: 842076727
+      tiles_spritesheet_ground2_4: -580203880
+      tiles_spritesheet_ground2_40: -354064610
+      tiles_spritesheet_ground2_41: 383040941
+      tiles_spritesheet_ground2_42: -1219928855
+      tiles_spritesheet_ground2_43: 180765368
+      tiles_spritesheet_ground2_44: 1515147857
+      tiles_spritesheet_ground2_45: -1261132208
+      tiles_spritesheet_ground2_46: 687533920
+      tiles_spritesheet_ground2_47: 1781302774
+      tiles_spritesheet_ground2_48: 33642931
+      tiles_spritesheet_ground2_49: -1004078415
+      tiles_spritesheet_ground2_5: 556083485
+      tiles_spritesheet_ground2_50: 1893644195
+      tiles_spritesheet_ground2_51: -1026992216
+      tiles_spritesheet_ground2_52: -1062969661
+      tiles_spritesheet_ground2_6: -1793270770
+      tiles_spritesheet_ground2_7: 1753303360
+      tiles_spritesheet_ground2_8: -138728755
+      tiles_spritesheet_ground2_9: -1795710505
+      tiles_spritesheet_ground3_0: 1101937763
+      tiles_spritesheet_ground3_1: -85144945
+      tiles_spritesheet_ground3_10: 1703897092
+      tiles_spritesheet_ground3_11: -311026468
+      tiles_spritesheet_ground3_12: -1797876838
+      tiles_spritesheet_ground3_13: -2108685930
+      tiles_spritesheet_ground3_14: -742512739
+      tiles_spritesheet_ground3_15: 1084086554
+      tiles_spritesheet_ground3_16: 779442163
+      tiles_spritesheet_ground3_17: -980865219
+      tiles_spritesheet_ground3_18: 1083728130
+      tiles_spritesheet_ground3_19: 599379783
+      tiles_spritesheet_ground3_2: -295369721
+      tiles_spritesheet_ground3_20: -116089207
+      tiles_spritesheet_ground3_21: 542535496
+      tiles_spritesheet_ground3_22: -1713960279
+      tiles_spritesheet_ground3_23: -1290304527
+      tiles_spritesheet_ground3_24: -1681678728
+      tiles_spritesheet_ground3_25: -1613601041
+      tiles_spritesheet_ground3_26: -940834466
+      tiles_spritesheet_ground3_27: 1771842177
+      tiles_spritesheet_ground3_28: -449656174
+      tiles_spritesheet_ground3_29: 2103873741
+      tiles_spritesheet_ground3_3: -84722265
+      tiles_spritesheet_ground3_30: -1302050980
+      tiles_spritesheet_ground3_31: -1407176561
+      tiles_spritesheet_ground3_32: 483001188
+      tiles_spritesheet_ground3_33: -853455060
+      tiles_spritesheet_ground3_34: -477094455
+      tiles_spritesheet_ground3_35: -1988408843
+      tiles_spritesheet_ground3_36: -1411757036
+      tiles_spritesheet_ground3_37: -766837124
+      tiles_spritesheet_ground3_38: -1961189881
+      tiles_spritesheet_ground3_39: 1642610778
+      tiles_spritesheet_ground3_4: 541031047
+      tiles_spritesheet_ground3_40: 1795587514
+      tiles_spritesheet_ground3_41: 1987051116
+      tiles_spritesheet_ground3_42: -1629248216
+      tiles_spritesheet_ground3_43: -737684428
+      tiles_spritesheet_ground3_44: -651485360
+      tiles_spritesheet_ground3_45: 1321582030
+      tiles_spritesheet_ground3_5: -596431827
+      tiles_spritesheet_ground3_6: 1225319077
+      tiles_spritesheet_ground3_7: -1303233889
+      tiles_spritesheet_ground3_8: -1295135282
+      tiles_spritesheet_ground3_9: -673296698
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

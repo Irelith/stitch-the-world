@@ -74,8 +74,6 @@ public class Bridge : MonoBehaviour{
         GlowBridgeLeft.SetActive(false);
         GlowBridgeRight.SetActive(false);
 
-        BridgeRight.SetActive(false);
-
         BrokenBridge.SetActive(true);
         BridgeCreated = true;
         Debug.Log("Bridge Created");
